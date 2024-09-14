@@ -6,6 +6,4 @@ I like low-level details and learning about the intricacies of any piece of soft
 
 I recently worked on machine compilers at Arm. Merged [one](https://github.com/llvm/llvm-project/pull/108260) and [two](https://github.com/llvm/llvm-project/pull/108133) into LLVM. I also worked on some other stuff, which should be open-sourced in the next year or so.
 
-Previously, I worked on full-stack development at American Airlines.
-
 I'm also actively wrapping up some research on computer architecture with Professor Nowatzki (UCLA). Stay tuned for updates.
