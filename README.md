@@ -2,10 +2,10 @@
 
 I'm Arteen, an undergraduate at UCLA studying Computer Science and Math.
 
-I enjoy exploring low-level details and understanding the intricacies of any piece of software I work on.
+I've previously worked on machine learning compilers at Arm, merging [one](https://github.com/llvm/llvm-project/pull/108260) and [two](https://github.com/llvm/llvm-project/pull/108133) into LLVM. I also worked on some other projects during my time there that will be open-sourced soon.
 
-Recently, I worked on machine learning compilers at Arm. Merged [one](https://github.com/llvm/llvm-project/pull/108260) and [two](https://github.com/llvm/llvm-project/pull/108133) into LLVM. I also worked on some other projects, which should be open-sourced in the next year or so.
+I have experience teaching as a learning assistant at UCLA, research in computer architecture, and I'm broadly interested in systems programming.
 
-Currently, I'm wrapping up some research on computer architecture, serving as a learning assistant for computer organization, recruiting for internships, and finishing up my degree.
+This summer, I'm excited to be interning at Optiver working on high-frequency trading systems.
 
 You can contact me via [LinkedIn](https://www.linkedin.com/in/arteen/) or email: arteen (at) ucla (dot) edu.
