@@ -4,7 +4,7 @@ I'm Arteen, an undergraduate at UCLA studying Computer Science and Math.
 
 I've previously worked on machine learning compilers at Arm, merging [one](https://github.com/llvm/llvm-project/pull/108260) and [two](https://github.com/llvm/llvm-project/pull/108133) into LLVM. I also worked on some other projects during my time there that will be open-sourced soon.
 
-I have experience teaching as a learning assistant at UCLA, research in computer architecture, and I'm broadly interested in systems programming.
+I have experience teaching as a learning assistant at UCLA, research in computer architecture, and I'm broadly interested in computer programming -- particularly in C++.
 
 This summer, I'm excited to be interning at Optiver working on high-frequency trading systems.
 
