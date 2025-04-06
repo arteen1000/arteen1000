@@ -2,7 +2,7 @@
 
 I'm Arteen, an undergraduate at UCLA studying Computer Science and Math.
 
-I previously worked on machine learning compilers at Arm, merging [one](https://github.com/llvm/llvm-project/pull/108260) and [two](https://github.com/llvm/llvm-project/pull/108133) into LLVM. I also delivered several other projects and extensions, though some may be published externally without direct credit.
+I previously worked on machine learning compilers at Arm, merging [one](https://github.com/llvm/llvm-project/pull/108260) and [two](https://github.com/llvm/llvm-project/pull/108133) into LLVM. I also delivered several other projects and extensions, though some may be published externally without direct attribution.
 
 I have experience teaching as a learning assistant at UCLA, research in computer architecture, and I'm broadly interested in computer programming -- particularly in C++.
 
