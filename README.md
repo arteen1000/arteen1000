@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I'm Arteen, an undergraduate at UCLA studying Computer Science and Math.
+I'm Arteen, studying Computer Science with a minor in Math at UCLA. I love computer programming, particularly in C++.
 
-I previously worked on machine learning compilers at Arm, merging [one](https://github.com/llvm/llvm-project/pull/108260) and [two](https://github.com/llvm/llvm-project/pull/108133) into LLVM, alongside several other deliverables.
+Some highlights:
+- Coordinated with stakeholders at NVIDIA, AMD, Google to contribute a [significant transformation](https://github.com/llvm/llvm-project/pull/108260) to the [MLIR](https://github.com/llvm/llvm-project/pull/108133) dialects in LLVM during my internship at Arm
+- First author, IEEE CAL '25 on cache-collocation optimizations as an undergraduate project lead
+- Course staff for CS 33 (Computer Organization) and CS 132 (Compiler Construction) at UCLA
 
-I have experience teaching as a learning assistant at UCLA, research in computer architecture, and I'm broadly interested in computer programming -- particularly in C++.
-
-This summer, I'm excited to be interning at Optiver working on high-frequency trading systems.
+This summer, I'll be interning on the Delta One team at Optiver.
 
 You can contact me via [LinkedIn](https://www.linkedin.com/in/arteen/) or email: arteen (at) ucla (dot) edu.
